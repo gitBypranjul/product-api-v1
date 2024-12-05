@@ -15,7 +15,7 @@ output application/json
   productID: "123456",
   productName: "Mulesoft Course",
   productProvider: "Udemy",
-  productDescription: "Complete Mulesoft Developer Course for Beginners"
+  productDescription: "Complete Mulesoft 4.X Developer Course for Beginners"
 } as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
             </ee:message>
         </ee:transform>
